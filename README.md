@@ -1,3 +1,5 @@
+# Git
+    git clone https://github.com/dwightcarter-GPI/pdf2png.git
 # Install 
     npm i pdfjs-dist assert axios pdf-lib
 # Add 
